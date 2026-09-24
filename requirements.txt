@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+shap
+mistralai
+python-dotenv
+langcahin-mistralai
