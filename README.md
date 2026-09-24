@@ -6,7 +6,7 @@ project complexity, scope). Combines traditional ML, explainable AI (SHAP),
 and Generative AI (Groq/LLM) to give Project Managers a clear, human-readable
 risk assessment — not just a number.
 
-🔗 **Live Demo**: [[Add your deployed Streamlit link here](http://localhost:8501/)]
+🔗 **Live Demo**: [[Live working]((https://mayur93-02-deadline-miss-prediction-genai-app-qakzb1.streamlit.app/))]
 📓 **Notebook**: `notebooks/deadline_prediction.ipynb`
 
 ---
