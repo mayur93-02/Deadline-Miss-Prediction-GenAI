@@ -4,6 +4,6 @@ numpy
 scikit-learn
 joblib
 shap
-mistralai
+matplotlib
+groq
 python-dotenv
-langcahin-mistralai
